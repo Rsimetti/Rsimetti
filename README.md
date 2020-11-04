@@ -1,4 +1,12 @@
-### Hi there 👋
+### Rodrigo Simetti 👋
+
+- Doutor em Ciência e Tecnologia da Madeira – 2019
+- Mestre em Engenharia Florestal – 2016
+- Engenheiro Industrial Madeireiro – 2014
+
+#### Redes sociais
+[LinkedIn](https://www.linkedin.com/in/rodrigosimetti/)
+
 
 <!--
 **Rsimetti/Rsimetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
