@@ -1,10 +1,10 @@
-### Rodrigo Simetti 👋
+# Rodrigo Simetti 👋
 
 - Doutor em Ciência e Tecnologia da Madeira – 2019
 - Mestre em Engenharia Florestal – 2016
 - Engenheiro Industrial Madeireiro – 2014
 
-#### Redes sociais
+### Redes sociais
 [LinkedIn](https://www.linkedin.com/in/rodrigosimetti/)
 
 ## Projetos em ciências de dados
