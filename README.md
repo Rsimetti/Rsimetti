@@ -17,7 +17,7 @@
  - [Classificação](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana03_RNA_x_RF.ipynb)
  Comparação de redes neurais artificias e florestas aleatórias na classificação de pessoas em relação ao uso de métodos contraceptivos. 
 - [Redes neurais convolucionais](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana06_CNN.ipynb)
-Classificação de imagens para classificação em dois grupos (cães e gatos)
+Classificação de imagens em dois grupos (cães e gatos)
 
 
 <!--
